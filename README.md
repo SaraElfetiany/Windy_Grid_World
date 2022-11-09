@@ -1,6 +1,7 @@
 # Windy_Grid_World
 
 Consider the game depicted in the following diagram:
+
 ![image](https://user-images.githubusercontent.com/101424965/200913226-76bee01b-d85b-4de7-a3f0-615a0b3323c6.png)
 
 You are to implement several algorithms to solve this problem:
